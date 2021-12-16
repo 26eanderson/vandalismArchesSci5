@@ -19,13 +19,8 @@ h1 {
      padding-left: 15px;
    }
    
-   #PicOfMe{
-     height: 250px;
-     width: 500px;
-   }
-   
    body{
-     background-color: whitesmoke;
+     background-color: whitesmoke, white;
      color: #000;
      font-family: Arial,sans-serif;
      font-weight: normal;
